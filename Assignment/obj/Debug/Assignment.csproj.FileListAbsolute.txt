@@ -1,0 +1,60 @@
+c:\users\administrator\documents\visual studio 2012\Projects\Assignment\Assignment\bin\Assignment.dll
+c:\users\administrator\documents\visual studio 2012\Projects\Assignment\Assignment\bin\Assignment.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\Assignment\Assignment\bin\Antlr3.Runtime.dll
+c:\users\administrator\documents\visual studio 2012\Projects\Assignment\Assignment\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\administrator\documents\visual studio 2012\Projects\Assignment\Assignment\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\administrator\documents\visual studio 2012\Projects\Assignment\Assignment\bin\DotNetOpenAuth.AspNet.dll
+c:\users\administrator\documents\visual studio 2012\Projects\Assignment\Assignment\bin\DotNetOpenAuth.Core.dll
+c:\users\administrator\documents\visual studio 2012\Projects\Assignment\Assignment\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\administrator\documents\visual studio 2012\Projects\Assignment\Assignment\bin\DotNetOpenAuth.OAuth.dll
+c:\users\administrator\documents\visual studio 2012\Projects\Assignment\Assignment\bin\DotNetOpenAuth.OpenId.dll
+c:\users\administrator\documents\visual studio 2012\Projects\Assignment\Assignment\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\administrator\documents\visual studio 2012\Projects\Assignment\Assignment\bin\EntityFramework.dll
+c:\users\administrator\documents\visual studio 2012\Projects\Assignment\Assignment\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\administrator\documents\visual studio 2012\Projects\Assignment\Assignment\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\administrator\documents\visual studio 2012\Projects\Assignment\Assignment\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\administrator\documents\visual studio 2012\Projects\Assignment\Assignment\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\administrator\documents\visual studio 2012\Projects\Assignment\Assignment\bin\Microsoft.Web.Infrastructure.dll
+c:\users\administrator\documents\visual studio 2012\Projects\Assignment\Assignment\bin\System.Web.Optimization.dll
+c:\users\administrator\documents\visual studio 2012\Projects\Assignment\Assignment\bin\System.Web.Providers.dll
+c:\users\administrator\documents\visual studio 2012\Projects\Assignment\Assignment\bin\WebGrease.dll
+c:\users\administrator\documents\visual studio 2012\Projects\Assignment\Assignment\bin\EntityFramework.xml
+c:\users\administrator\documents\visual studio 2012\Projects\Assignment\Assignment\bin\DotNetOpenAuth.Core.xml
+c:\users\administrator\documents\visual studio 2012\Projects\Assignment\Assignment\bin\DotNetOpenAuth.OAuth.xml
+c:\users\administrator\documents\visual studio 2012\Projects\Assignment\Assignment\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\administrator\documents\visual studio 2012\Projects\Assignment\Assignment\bin\DotNetOpenAuth.OpenId.xml
+c:\users\administrator\documents\visual studio 2012\Projects\Assignment\Assignment\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\administrator\documents\visual studio 2012\Projects\Assignment\Assignment\bin\DotNetOpenAuth.AspNet.xml
+c:\users\administrator\documents\visual studio 2012\Projects\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\Assignment\Assignment\obj\Debug\Assignment.dll
+c:\users\administrator\documents\visual studio 2012\Projects\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\kenng\Desktop\Assignment\Assignment\bin\Assignment.dll
+C:\Users\kenng\Desktop\Assignment\Assignment\bin\Assignment.pdb
+C:\Users\kenng\Desktop\Assignment\Assignment\bin\Antlr3.Runtime.dll
+C:\Users\kenng\Desktop\Assignment\Assignment\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\kenng\Desktop\Assignment\Assignment\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\kenng\Desktop\Assignment\Assignment\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\kenng\Desktop\Assignment\Assignment\bin\DotNetOpenAuth.Core.dll
+C:\Users\kenng\Desktop\Assignment\Assignment\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\kenng\Desktop\Assignment\Assignment\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\kenng\Desktop\Assignment\Assignment\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\kenng\Desktop\Assignment\Assignment\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\kenng\Desktop\Assignment\Assignment\bin\EntityFramework.dll
+C:\Users\kenng\Desktop\Assignment\Assignment\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\kenng\Desktop\Assignment\Assignment\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\kenng\Desktop\Assignment\Assignment\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\kenng\Desktop\Assignment\Assignment\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\kenng\Desktop\Assignment\Assignment\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kenng\Desktop\Assignment\Assignment\bin\System.Web.Optimization.dll
+C:\Users\kenng\Desktop\Assignment\Assignment\bin\System.Web.Providers.dll
+C:\Users\kenng\Desktop\Assignment\Assignment\bin\WebGrease.dll
+C:\Users\kenng\Desktop\Assignment\Assignment\bin\EntityFramework.xml
+C:\Users\kenng\Desktop\Assignment\Assignment\bin\DotNetOpenAuth.Core.xml
+C:\Users\kenng\Desktop\Assignment\Assignment\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\kenng\Desktop\Assignment\Assignment\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\kenng\Desktop\Assignment\Assignment\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\kenng\Desktop\Assignment\Assignment\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\kenng\Desktop\Assignment\Assignment\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\kenng\Desktop\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\kenng\Desktop\Assignment\Assignment\obj\Debug\Assignment.dll
+C:\Users\kenng\Desktop\Assignment\Assignment\obj\Debug\Assignment.pdb
